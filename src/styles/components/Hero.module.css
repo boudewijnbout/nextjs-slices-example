@@ -1,0 +1,13 @@
+.hero {
+    background-size: cover;
+    background-position: center center;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero h1 {
+    color: #fff;
+    font-size: 5rem;
+}
