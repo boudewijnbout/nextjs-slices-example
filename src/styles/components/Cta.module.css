@@ -1,0 +1,10 @@
+.section {
+    margin-top: 5rem;
+    height: 15vh;
+    background-position: center center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 2rem;
+}

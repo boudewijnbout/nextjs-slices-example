@@ -3,6 +3,7 @@
 import dynamic from "next/dynamic";
 
 export const components = {
+  call_to_action: dynamic(() => import("./CallToAction")),
   hero_slice: dynamic(() => import("./HeroSlice")),
   image_grid: dynamic(() => import("./ImageGrid")),
 };

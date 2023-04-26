@@ -15,7 +15,8 @@
         "config": {
           "choices": {
             "hero_slice": { "type": "SharedSlice" },
-            "image_grid": { "type": "SharedSlice" }
+            "image_grid": { "type": "SharedSlice" },
+            "call_to_action": { "type": "SharedSlice" }
           }
         }
       }
